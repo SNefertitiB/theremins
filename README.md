@@ -18,8 +18,8 @@ I used [this tutorial](https://projects.raspberrypi.org/en/projects/ultrasonic-t
     - GND -> pin 9
  - Piezo Buzzer (PS1240)
  ![](buzzer.jpeg)
-    - GND -> pin 
-    - other -> 
+    - GND -> pin 34
+    - other -> pin 40 (GPIO 21)
 
 #### How it works:
 1) RCWL-1601 gets the distance of an object in meters.
