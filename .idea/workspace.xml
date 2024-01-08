@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd9c494d-d725-4036-8f03-ef8d92e1a22b" name="Default Changelist" comment="" />
+    <list default="true" id="fd9c494d-d725-4036-8f03-ef8d92e1a22b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fixed_volume_theremin/fixed_volume_theremin.py" beforeDir="false" afterPath="$PROJECT_DIR$/fixed_volume_theremin/fixed_volume_theremin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theremin_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/theremin_utils.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2ZsIS0BomREmS5yT5Id7YnQy3kn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -29,7 +39,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_theremin_utils">
+  <component name="RunManager" selected="Python.theremin_utils">
     <configuration name="test_theremin_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="theremins" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_theremin_utils" />
         <item itemvalue="Python.theremin_utils" />
+        <item itemvalue="Python.test_theremin_utils" />
       </list>
     </recent_temporary>
   </component>
@@ -93,21 +103,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1315" height="181" key="GridCell.Tab.0.bottom" timestamp="1704037580446">
+    <state width="1240" height="181" key="GridCell.Tab.0.bottom" timestamp="1704731135167">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1315" height="181" key="GridCell.Tab.0.bottom/0.23.1366.745@0.23.1366.745" timestamp="1704037580446" />
-    <state width="1315" height="181" key="GridCell.Tab.0.center" timestamp="1704037580445">
+    <state width="1240" height="181" key="GridCell.Tab.0.bottom/0.23.1366.745@0.23.1366.745" timestamp="1704731135167" />
+    <state width="1240" height="181" key="GridCell.Tab.0.center" timestamp="1704731135166">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1315" height="181" key="GridCell.Tab.0.center/0.23.1366.745@0.23.1366.745" timestamp="1704037580445" />
-    <state width="1315" height="181" key="GridCell.Tab.0.left" timestamp="1704037580444">
+    <state width="1240" height="181" key="GridCell.Tab.0.center/0.23.1366.745@0.23.1366.745" timestamp="1704731135166" />
+    <state width="1240" height="181" key="GridCell.Tab.0.left" timestamp="1704731135163">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1315" height="181" key="GridCell.Tab.0.left/0.23.1366.745@0.23.1366.745" timestamp="1704037580444" />
-    <state width="1315" height="181" key="GridCell.Tab.0.right" timestamp="1704037580446">
+    <state width="1240" height="181" key="GridCell.Tab.0.left/0.23.1366.745@0.23.1366.745" timestamp="1704731135163" />
+    <state width="1240" height="181" key="GridCell.Tab.0.right" timestamp="1704731135166">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1315" height="181" key="GridCell.Tab.0.right/0.23.1366.745@0.23.1366.745" timestamp="1704037580446" />
+    <state width="1240" height="181" key="GridCell.Tab.0.right/0.23.1366.745@0.23.1366.745" timestamp="1704731135166" />
   </component>
 </project>

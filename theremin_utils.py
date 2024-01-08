@@ -1,4 +1,4 @@
-
+import sys, signal
 
 # Global variables -- defined at theremin set-up
 MIN_CM = 5     # smallest value distance sensor registers
@@ -23,3 +23,11 @@ def get_frequency(d:float) -> float:
 
 def get_voltage(d:float) -> float:
     return d * MAX_VOLT
+
+
+
+from time import sleep
+
+def signal_handler_exit(signal, frame):
+    print("\nSee you soon!")
+    sys.exit(0)
